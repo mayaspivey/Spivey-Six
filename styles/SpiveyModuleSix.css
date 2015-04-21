@@ -1,0 +1,7 @@
+h1 {text-align:center; color:#FF33CC;}
+#container { background-color: #FF33CC; width:600px; height:350px;}
+#sectionone {background-color:#FF6699;visibility: hidden; width:600px; height:200px;top:200px; position:absolute;}
+#sectiontwo {background-color:#FF0033;visibility: hidden; width:600px; height:220px; top:200px;position: absolute; }
+#sectionthree {background-color:#FF99CC;visibility: hidden; width:600px; height:200px; top:200px; position:absolute; }
+#displayarea {background-color:#FF22CC;}
+
